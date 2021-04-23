@@ -2,8 +2,8 @@
 
 - ## Before Adding Shadow
 
-![Attachment](https://github.com/aya155/the_chance_week7_homework2/raw/master/Beforeshadow.PNG)
+![Attachment](https://github.com/aya155/the_chance_week7_homework2/blob/Aya-AlNaqeep/Beforeshadow.PNG)
 
 - ## After Adding Shadow
 
-![Attachment](https://github.com/aya155/the_chance_week7_homework2/raw/master/Aftershadow.PNG)
+![Attachment](https://github.com/aya155/the_chance_week7_homework2/blob/Aya-AlNaqeep/Aftershadow.PNG)
